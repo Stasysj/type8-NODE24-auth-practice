@@ -2,7 +2,7 @@
 
 ### 1 Auth: POST register (išsaugo vartotojo duomenis į users lentelę);
 
-1. gaunam email ir pass
+1. gaunam email ir pass :rofl:
 2. hash pass su brcyptjs
 3. issaugom useri duomenu bazeje
 
